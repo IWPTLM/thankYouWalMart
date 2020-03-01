@@ -1,0 +1,48 @@
+body {
+    background-color: antiquewhite;
+    font-family: noteworthy;
+}
+.world {
+    height: 250px;
+    width: 250px;
+}
+li {
+    display: inline-block;
+    list-style-type: none;
+}
+.tlm {
+    width: 120px;
+    height: 140px;
+    margin-top: -6.5em;
+    /* z-index: 1; */
+}
+.wal {
+    width: 75px;
+    height: 75px;
+    margin-top: -3em;
+}
+.title {
+    font-size: 8em;
+}
+.believe {
+    font-size: 4em;
+}
+img {
+    width: 100%;
+}
+#words {
+    font-size: 1.8em;
+    color: #0645AD;
+}
+.carousel-item {
+    font-size: 2em;
+    background: linear-gradient(45deg, #0645AD, #AF7817);
+    /* background: radial-gradient(#0645AD, #AF7817); */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.names {
+    background: #dba527;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
